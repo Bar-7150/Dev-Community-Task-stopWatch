@@ -6,7 +6,7 @@ body{
 }
 h3{
      font-size: 4rem;
-     font-family: "Arial", sans-serif;
+     font-family:  "Tagesschrift", system-ui;
      color: hsl(0,0%,25%);
 
 }
@@ -22,6 +22,7 @@ button{
     font-weight: bold;
     border: none;
     border-radius: 20px;
+    margin: 20px;
     padding: 10px;
     cursor: pointer;
     color: antiquewhite
